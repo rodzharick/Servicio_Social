@@ -1,4 +1,9 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors','1');
+?>
+
+<?php
     // script para crear una conexión con la BD
 
     // Parametros requeridos para la conexión con la BD
